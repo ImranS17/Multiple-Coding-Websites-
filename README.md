@@ -1,7 +1,7 @@
 # Live Websites :- This repository features a comprehensive collection of code-based websites developed using modern technologies.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://galalitescreens.com/wp-content/uploads/2025/04/Fold-x-images-completed-project-01-revised.jpg">
 </p>
 
 Below is a list of live websites I've built or contributed to:
