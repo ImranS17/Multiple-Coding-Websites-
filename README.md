@@ -28,3 +28,12 @@
 | 22 | Shiven Holdings | Shiven Holdings specializes in global trading of premium food products. | https://shivenholdings.com |
 | 23 | GTC Industries | GTC Industries pioneers cinema screens, immersive home theatres, organic honey and premium coffee. | https://gtc.industries |
 | 24 | SWL Afria | Safewater Lines Africa provides secure cold chain logistics and customs services. | https://swlafrica.com |
+
+
+📬 Contact Me
+If you have any questions, feedback, or freelance project ideas, feel free to reach out!
+
+📧 Email: skimran0917@gmail.com
+
+
+
