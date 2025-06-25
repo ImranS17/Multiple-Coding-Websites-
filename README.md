@@ -11,14 +11,14 @@
 | 5 | Galalite Screens | Pioneers in crafting innovative cinema projection screens globally since 1959. | https://galalitescreens.com |
 | 6 | Patronus | Patronus is a digital marketing agency specializing in 360° marketing strategies. | https://patronus.live |
 | 7 | ECL | A T10 cricket tournament featuring eight teams led by popular social media influencers. | https://eclt10.in |
-| 8 | Xladvisors | XL Advisors is an HR solutions firm founded by IIT Kanpur alumni, specializing in global talent acquisition and HR services. | https://xladvisors.co |
+| 8 | Verity | Verity Jewelry offers elegant, handcrafted pieces blending timeless design and quality. | https://verity-jewelry.com|
 | 9 | Dr Praveen Bhatt | Dr. Praveen Bhatt offers expert astrology services across India & UAE. | https://praveenbhatt.com |
 | 10 | Lumina Screens | Lumina Screens offers premium projection solutions for immersive home theatres. | https://luminascreens.com |
 | 11 | Neelkanth | Neelkanth Group is a renowned real estate developer recognized for delivering high-quality residential, commercial, and retail properties.  | https://neelkanth.com |
 | 12 | Alliance Coffee | Alliance Coffees connects European roasters with exceptional specialty coffee globally. | https://alliancecoffees.pl |
 | 13 | GTown | GTown Pizza & Pasta serves authentic Italian pizza and pasta dishes. | https://gtownpizzapasta.com.au |
 | 14 | SWL | SWL delivers customized, reliable logistics solutions across India and globally. |  https://swl.in |      
-| 15 | Verity | Verity Jewelry offers elegant, handcrafted pieces blending timeless design and quality. | https://verity-jewelry.com |
+| 15 | Xladvisors | XL Advisors is an HR solutions firm founded by IIT Kanpur alumni, specializing in global talent acquisition and HR services.| https://xladvisors.co  |
 | 16 | Smartmode | Smartmode.net is a logistics company offering global freight solutions. | https://smartmode.net |
 | 17 | Neelkanth Zen | Neelkanth Zen offers modern studio apartments with premium amenities in Thane. | https://neelkanth.com/zen |
 | 18 | Openspace | OS Agency is a creative studio transforming businesses into impactful brands. | https://osagency.in |
